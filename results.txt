@@ -1,0 +1,5 @@
+Computer Name: Yoga7
+Date of Test: 2025-11-11 13:03:16
+Bubble Sort Time: 7.011566 seconds
+Quick Sort Time: 0.017040 seconds
+
