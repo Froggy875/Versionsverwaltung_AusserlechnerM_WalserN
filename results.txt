@@ -3,3 +3,8 @@ Date of Test: 2025-11-11 13:03:16
 Bubble Sort Time: 7.011566 seconds
 Quick Sort Time: 0.017040 seconds
 
+Computer Name: Mathias
+Date of Test: 2025-11-11 13:23:52
+Bubble Sort Time: 8.778326 seconds
+Quick Sort Time: 0.022888 seconds
+
